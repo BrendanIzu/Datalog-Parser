@@ -1,1 +1,8 @@
-hello
+A datalog parser project for CS 236
+
+1. Lexer class reads and creates tokens from input file
+2. Parser class which reads schemes, facts, rules, queries, and domain from input file
+3. Scheme class which hold the columns of a relation, and tuple class
+4. Relation class which has functions join, select, rename, union
+
+more information to be found here: https://faculty.cs.byu.edu/~barker/cs236/labs/labs.php
